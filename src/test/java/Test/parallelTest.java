@@ -9,5 +9,6 @@ public class parallelTest {
 	public void parallel()
 	{
 		System.out.println("parallel execution");
+		System.out.println("global execution");
 	}
 }
