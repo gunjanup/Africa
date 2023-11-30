@@ -13,5 +13,6 @@ public class SampleTest {
 		WebDriver driver=new ChromeDriver();
 		System.out.println("hi there sample");
 		driver.get("https://www.youtube.com/");
+		System.out.println("youtube launched");
 	}
 }
